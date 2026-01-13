@@ -1,0 +1,15 @@
+{
+  "name": "com.noya.build-uploader",
+  "version": "1.0.0",
+  "displayName": "Build Uploader",
+  "description": "An Editor tool for uploading builds to various platforms.",
+  "unity": "6000.0",
+  "licensesUrl": "https://raw.githubusercontent.com/ZykeDev/Build-Uploader/refs/heads/main/LICENSE",
+  "author": {
+    "name": "Marco Vincenzi",
+    "url": "https://github.com/ZykeDev"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10"
+  }
+}
